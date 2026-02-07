@@ -1,0 +1,33 @@
+HackerNews Headlines:
+Tiny C Compiler
+SectorC: A C Compiler in 512 bytes
+The F Word
+You Are Here
+Brookhaven Lab's RHIC concludes 25-year run with final collisions
+Speed up responses with fast mode
+Software factories and the agentic moment
+FDA intends to take action against non-FDA-approved GLP-1 drugs
+Italy Railways Sabotaged
+Hoot: Scheme on WebAssembly
+OpenCiv3: Open-source, cross-platform reimagining of Civilization III
+Stories from 25 Years of Software Development
+The Waymo World Model
+LLMs as the new high level language
+Al Lowe on model trains, funny deaths and working with Disney
+First Proof
+Show HN: A luma dependent chroma compression algorithm (image compression)
+I write games in C (yes, C) (2016)
+Vocal Guide – belt sing without killing yourself
+Start all of your commands with a comma (2009)
+Show HN: I saw this cool navigation reveal, so I made a simple HTML+CSS version
+Selection rather than prediction
+Reinforcement Learning from Human Feedback
+The AI boom is causing shortages everywhere else
+72M Points of Interest
+A Fresh Look at IBM 3270 Information Display System
+Coding agents have replaced every framework I used
+France's homegrown open source online office suite
+Unseen Footage of Atari Battlezone Arcade Cabinet Production
+Where did all the starships go?
+
+Product Hunt Headlines:
