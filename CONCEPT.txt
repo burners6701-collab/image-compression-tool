@@ -1,0 +1,3 @@
+Chosen Micro-SaaS Idea: Image Compression Tool
+Reason: There is a consistent demand for simpler and more effective image optimization tools, as observed from HackerNews trends.
+Approach: Use an open-source library to build a lightweight image compression solution that can be deployed as a single HTML file or Python script.
